@@ -17,12 +17,16 @@ Just like you would when calling an automated telephone line.
 
 </details>
 
-2. So it seems that we don't have enough funds to purchase the flag. How could we increase our balance? Notice anything in the code that we could utilis?
+2. So it seems that we don't have enough funds to purchase the flag. How could we increase our balance? Notice anything in the code that we could utilise?
 
 <details>
 <summary>Hint?</summary>
 <br>
 
+Look at line 42: `account_balance = account_balance - total_cost;`
 
+We can use `-` to our advantage by inducing an overflow such that if we buy many flags, the integer will wrap around and become negative. This trick will actually increase our total balance, enought to buy the actual flag!
+
+See [here](https://www.welivesecurity.com/2022/02/21/integer-overflow-how-it-occur-can-be-prevented/) for more info on _integer overflow_
 
 </details>
