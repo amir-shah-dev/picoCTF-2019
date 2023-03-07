@@ -6,6 +6,12 @@ Welcome to the VCC rendition of picoCTF 2019! Please follow follow the README on
 
 Hope you enjoy!
 
+## Prerequisites
+
+Take a look [here](https://vintrae.github.io/How-To-CTF/) to learn more about CTFs 
+
+Experience with the command line will be useful, but don't fret if you don't have any! Take a look at this [linux guide](https://vintrae.github.io/How-To-CTF/linux_guide)
+
 ## Setup
 
 First you'll need to get setup on picoCTF so that you can get started. 
