@@ -6,5 +6,5 @@ This challenge teaches us about the **robotx.txt** file. This file is widely use
 <details>
 <summary>Hint</summary>
 <br>
-In this case, if we visit [https://jupiter.challenges.picoctf.org/problem/56830/](https://jupiter.challenges.picoctf.org/problem/56830/) we will get very little information, but if we try with [https://jupiter.challenges.picoctf.org/problem/56830/robots.txt](https://jupiter.challenges.picoctf.org/problem/56830/robots.txt) we find a suspicious site: /1bb4c.html, which is our clue. Visiting the site [https://jupiter.challenges.picoctf.org/problem/56830/1bb4c.html](https://jupiter.challenges.picoctf.org/problem/56830/1bb4c.html) gives us the flag.
+In this case, if we visit https://jupiter.challenges.picoctf.org/problem/56830/ we will get very little information, but if we try with https://jupiter.challenges.picoctf.org/problem/56830/robots.txt we find a suspicious site: /1bb4c.html, which is our clue. Visiting the site https://jupiter.challenges.picoctf.org/problem/56830/1bb4c.html gives us the flag.
 </details>
