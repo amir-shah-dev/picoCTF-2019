@@ -21,6 +21,6 @@ First you'll need to get setup on picoCTF so that you can get started.
 > **Note** Please create a brand new password for this account and do not use one of your current passwords
 5. Once setup, select "Practice" at the top of the page. On the following page select "picoCTF 2019" which can be found in the "Filters" section of the page.
 6. Finally select "Webshell" and this will open a console window where you can login with the credentials you just created.
-> **Note** Our guides work within this webshell, so please do NOT download the code files to your actual computer
+> **Note** Our guides work within this webshell, so please do NOT download the code files to your actual computer. Instead just right-click on the link and copy it, from there head to your webshell and run the following command to download it: `wget https://mylink.to.download`
 7. You can also popout this console window into a new tab for ease of use by selecting the "Popout" button. <br />![Screenshot 2022-12-05 154405](https://user-images.githubusercontent.com/72796129/205682931-f870034f-e621-4ba3-987a-00453eec8113.png)
 8. You are now ready to start :)
