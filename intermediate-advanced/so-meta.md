@@ -6,5 +6,5 @@ Image files have a lot more information than they let on! There is a standard ca
 <details>
 <summary>Hint</summary>
 <br>
-The difficult part of this challenge is knowing how to view the metadata of an image file. A commonly-used tool for this is **exiftool**, which gives us all the exif fields. The `Artist` field has an interesting value, don't you think?
+The difficult part of this challenge is knowing how to view the metadata of an image file. A commonly-used tool for this is exiftool, which gives us all the exif fields. The 'Artist' field has an interesting value, don't you think?
 </details>
