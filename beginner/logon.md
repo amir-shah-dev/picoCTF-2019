@@ -7,7 +7,8 @@ This challenge can be a bit confusing when it comes to knowing what it is we hav
 <summary>Hint</summary>
 <br>
 Once in, we are told that our success is short-lived, as we can’t see the flag. However, inspecting the cookies we will see the ‘admin’ cookie has been set with a `False` value. Changing this to `True` and reloading the page gets us the flag.
-Note - To inspect our cookies we can do the following:
+
+  Note - To inspect our cookies we can do the following:
 
 - Chrome: Right click > Inspect > Application > Cookies on the left-hand side
 - Firefox: Right click > Inspect > Storage > Cookies on the left-hand side
